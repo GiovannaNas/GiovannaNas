@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovanna Nascimento. 
 
 - 🔭 Hoje trabalho com Suporte e manutenção de Rede
-- 🌱 Estudando SQL 
+- 🌱 SQL e analise de dados
 - 📫 Contate-me no email: giovannaalves56gial@gmail.com
 
 <div style="display: inline_block"><br>
