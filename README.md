@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Suporte e manutenção de Rede
 - 🌱 Estudando SQL 
-- 📫 Contate-me no email: giovannaalvesgial@gmail.com 
+- 📫 Contate-me no email: giovannaalves56gial@gmail.com
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Giovanna-Nascimento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
