@@ -1,4 +1,4 @@
-### Olá! Eu sou a Giovanna Nascimento. 
+### Olá! Eu sou a Giovanna Nascimento 👋. 
 
 - 🔭 Hoje trabalho com Desenvolvimento 
 - 🌱 JavaScript, Typescript, Angular
