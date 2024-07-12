@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovanna Nascimento. 
 
-- 🔭 Hoje trabalho com Suporte e manutenção de Rede
-- 🌱 JavaScript
+- 🔭 Hoje trabalho com Desenvolvimento 
+- 🌱 JavaScript, Typescript, Angular
 - 📫 Contate-me no email: giovannaalves56gial@gmail.com
 
 <div style="display: inline_block"><br>
